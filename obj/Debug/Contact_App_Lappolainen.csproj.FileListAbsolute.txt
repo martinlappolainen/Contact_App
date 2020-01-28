@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\bin\Debug\Contact_App_Lappolainen.exe.config
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\bin\Debug\Contact_App_Lappolainen.exe
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\bin\Debug\Contact_App_Lappolainen.pdb
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.Form1.resources
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.Properties.Resources.resources
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.exe
+C:\Users\opilane\source\repos\Contact_App_Lappolainen\obj\Debug\Contact_App_Lappolainen.pdb

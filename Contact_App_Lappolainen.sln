@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact_App_Lappolainen", "Contact_App_Lappolainen.csproj", "{16A1FD65-FA98-4987-A592-5F25173981D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A1FD65-FA98-4987-A592-5F25173981D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A1FD65-FA98-4987-A592-5F25173981D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A1FD65-FA98-4987-A592-5F25173981D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A1FD65-FA98-4987-A592-5F25173981D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429CB5AE-BCAF-4F43-A0EF-50BBE116CD01}
+	EndGlobalSection
+EndGlobal
